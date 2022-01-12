@@ -1,0 +1,18 @@
+
+.parentDiv {  
+display: flex; 
+justify-content: center; 
+align-items: center;} 
+
+body {background-color: coral;}
+
+#seconds-counter {
+    position: relative;
+    text-align: center;
+    align-content: center;
+
+    font-size: 18px;
+    color: white;
+}
+
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{ display: none; }
