@@ -1,2 +1,6 @@
 # Html-audio-and-gif
-play gif image and audio
+You can make your own website with this codes
+
+examples ;
+waifunation.tk
+davie504.ga
